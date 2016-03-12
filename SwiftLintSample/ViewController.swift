@@ -29,7 +29,7 @@ class ViewController: UIViewController {
         sum = b + c
         print(sum)
         
-        let types = Types.apple
+        let types = Types.apple;
         
         if (true) {
             
