@@ -35,6 +35,12 @@ class ViewController: UIViewController {
             
         }
         
+        if (false) {
+            print("うえーい");
+        }
+        
+        var w = 0
+        
     }
 
     override func didReceiveMemoryWarning() {
