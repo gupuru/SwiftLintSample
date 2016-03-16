@@ -2,7 +2,10 @@
 
 SwiftLintのサンプル Hound CI使用
 
-### 参考サイト
+本家
+https://github.com/realm/SwiftLint#configuration
+
+### 参考サイト(解説)
 
 http://qiita.com/syamaoka/items/2edfe315940d91846bf0
 
